@@ -1,2 +1,2 @@
-ln -sf ./ps_mem ~/bin/ps_mem
+ln -sf `pwd`/ps_mem ~/bin/ps_mem
 
